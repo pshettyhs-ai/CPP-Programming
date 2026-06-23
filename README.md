@@ -128,11 +128,6 @@ CPP-Programming-Mastery/
 │   ├── Project09_ATM_Simulator/
 │   └── Project10_SnakeGame/
 │
-├── 📂 Images/
-│   ├── Outputs/                   ← Terminal output screenshots
-│   ├── Flowcharts/                ← Program flowcharts
-│   └── Diagrams/                  ← Class diagrams, UML
-│
 └── 📄 LICENSE
 ```
 
@@ -204,9 +199,9 @@ Check `13_Interview_Preparation/` for:
 
 | Platform | Link |
 |----------|------|
-| GitHub | [@PavanShettyHS](https://github.com/PavanShettyHS) |
-| LinkedIn | [Pavan Shetty H S](https://linkedin.com/in/pavanshettyhs) |
-| Email | pavanshettyhs@gmail.com |
+| GitHub | [@PavanShettyHS](https://github.com/pshettyhs-ai) |
+| LinkedIn | [Pavan Shetty H S](https://www.linkedin.com/in/pavan-shetty-h-s1807/) |
+| Email | [pshettyhs@gmail.com](mailto:pshettyhs@gmail.com) |
 
 ---
 
